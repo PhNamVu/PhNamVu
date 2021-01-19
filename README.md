@@ -1,11 +1,11 @@
 # Hello World!, I'm Nam 
 ## Javascript Developer
 - I'm interested with new technologies.
-- I'm studying Docker and Kubernetes.
+- I'm also studying Docker and Kubernetes.
 
 <br />
 
-### Programming Languages :
+### Programming Languages and Tools :
 <p>
 
   <img align="left" alt="javascript" width="22px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
