@@ -1,5 +1,7 @@
 # Hello World!, I'm Nam 
 ## Javascript Developer
+- I'm interested with new technologies.
+- I'm studying Docker and Kubernetes.
 
 <br />
 
@@ -12,7 +14,7 @@
   <img align="left" alt="react-icon" width="22px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
   <img align="left" alt="graphql" width="22px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
   <img align="left" alt="postgres" width="22px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-  <img align="left" alt="hasura" width="22px" src=" https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" />
+  <img align="left" alt="hasura" width="22px" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" />
   <img align="left" alt="firebase" width="22px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
 </p>
