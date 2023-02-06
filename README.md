@@ -17,5 +17,5 @@
   <img align="left" alt="hasura" width="22px" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" />
   <img align="left" alt="firebase" width="22px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
   <img align="left" alt="firebase" width="22px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
-  <img align="left" alt="solidity" width="22px" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000" />
+  <img align="left" alt="solidity" width="10px" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000" />
 </p>
