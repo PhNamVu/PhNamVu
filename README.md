@@ -1,7 +1,9 @@
 # Hello World!, I'm Nam 
 ## Javascript Developer
 - I'm interested with new technologies.
-- I'm also studying Docker and Kubernetes.
+
+## Blockchain Developer
+EVM - Solana - DeFi - Crypto
 
 <br />
 
