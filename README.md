@@ -1,4 +1,6 @@
-# Hello World!, I'm Nam --> h <a href="ttps://layer3.xyz/phnam.eth" target="_blank">Layer3 Profile</a>
+# Hello World!, I'm Nam
+[Layer3 Profile](https://layer3.xyz/phnam.eth)
+
 ## Javascript Developer
 - I'm interested with new technologies.
 
